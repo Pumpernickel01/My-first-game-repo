@@ -1,0 +1,17 @@
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\bin\Debug\My first game.deps.json
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\bin\Debug\My first game.runtimeconfig.json
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\bin\Debug\My first game.dll
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\bin\Debug\My first game.pdb
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.csproj.AssemblyReference.cache
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.AssemblyInfoInputs.cache
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.AssemblyInfo.cs
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first.444C9469.Up2Date
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.dll
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\refint\My first game.dll
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.pdb
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.genruntimeconfig.cache
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\ref\My first game.dll
