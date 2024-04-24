@@ -15,3 +15,4 @@ C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debu
 C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.pdb
 C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.genruntimeconfig.cache
 C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\ref\My first game.dll
+C:\Users\pauli\Desktop\My godot projects\My first game\.godot\mono\temp\obj\Debug\My first game.sourcelink.json

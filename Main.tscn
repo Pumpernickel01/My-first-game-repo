@@ -1,11 +1,15 @@
 [gd_scene load_steps=3 format=3 uid="uid://bcip35rvu1ynw"]
 
+[ext_resource type="Script" path="res://Movement.cs" id="1_2qrvi"]
 [ext_resource type="Texture2D" uid="uid://d30wud0dthsof" path="res://icon.svg" id="1_pwaop"]
-[ext_resource type="Script" path="res://Icon.cs" id="2_8g0yf"]
 
 [node name="Node2D" type="Node2D"]
 
-[node name="Icon" type="Sprite2D" parent="."]
-position = Vector2(540, 297)
+[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+script = ExtResource("1_2qrvi")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="CharacterBody2D"]
+position = Vector2(617, 221)
 texture = ExtResource("1_pwaop")
-script = ExtResource("2_8g0yf")

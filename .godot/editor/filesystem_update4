@@ -1,2 +1,4 @@
 res://Main.tscn
 res://Icon.cs
+res://CharacterBody2D.cs
+res://Movement.cs
