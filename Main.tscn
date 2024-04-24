@@ -1,15 +1,20 @@
 [gd_scene load_steps=3 format=3 uid="uid://bcip35rvu1ynw"]
 
-[ext_resource type="Script" path="res://Movement.cs" id="1_2qrvi"]
 [ext_resource type="Texture2D" uid="uid://d30wud0dthsof" path="res://icon.svg" id="1_pwaop"]
+[ext_resource type="Script" path="res://CharacterBody2D.cs" id="1_vxvqg"]
 
 [node name="Node2D" type="Node2D"]
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
-script = ExtResource("1_2qrvi")
+script = ExtResource("1_vxvqg")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
 
 [node name="MainCharacter" type="Sprite2D" parent="CharacterBody2D"]
-position = Vector2(617, 221)
+position = Vector2(215, 107)
+texture = ExtResource("1_pwaop")
+
+[node name="Sprite2D" type="Sprite2D" parent="CharacterBody2D/MainCharacter"]
+position = Vector2(123, 44)
+scale = Vector2(0.34375, 0.320313)
 texture = ExtResource("1_pwaop")
