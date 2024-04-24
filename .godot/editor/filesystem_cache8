@@ -1,6 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1713971951
+::res://::1713982484
+CharacterBody2D.cs::CSharpScript::-1::1713973687::0::1::::<>CharacterBody2D<>::
 icon.svg::CompressedTexture2D::9177530802866818353::1713942461::1713942467::1::::<><>::
-Main.tscn::PackedScene::2544275753066578208::1713968275::0::1::::<><>::uid://d30wud0dthsof::::res://icon.svg
-Movement.cs::CSharpScript::-1::1713968232::0::1::::<>CharacterBody2D<>::
+jitter_bug.cs::CSharpScript::-1::1713981887::0::1::::<>Sprite2D<>::
+jitter_bug.tscn::PackedScene::4998822685759034583::1713982341::0::1::::<><>::res://jitter_bug.cs<>uid://d30wud0dthsof::::res://icon.svg
+Main.tscn::PackedScene::2544275753066578208::1713982341::0::1::::<><>::uid://d30wud0dthsof::::res://icon.svg<>res://CharacterBody2D.cs
+New_Scene.cs::CSharpScript::-1::1713982368::0::1::::<>Node2D<>::
+New_Scene.tscn::PackedScene::3728575624569136602::1713982341::0::1::::<><>::res://New_Scene.cs<>uid://cdhp45p5wn4xn::::res://jitter_bug.tscn
 README.md::TextFile::-1::1713965025::0::1::::<><>::
+Skull.png::CompressedTexture2D::1927148077574468091::1713982455::1713982484::1::::<><>::
+Skull.tscn::PackedScene::5404469609877271940::1713982484::0::1::::<><>::uid://2pr32pn22ghn::::res://Skull.png

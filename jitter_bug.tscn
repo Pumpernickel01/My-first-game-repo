@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://cdhp45p5wn4xn"]
+
+[ext_resource type="Script" path="res://jitter_bug.cs" id="1_gp7ip"]
+[ext_resource type="Texture2D" uid="uid://d30wud0dthsof" path="res://icon.svg" id="1_iqdyg"]
+
+[node name="JitterBug" type="Sprite2D"]
+position = Vector2(515, 281)
+texture = ExtResource("1_iqdyg")
+script = ExtResource("1_gp7ip")

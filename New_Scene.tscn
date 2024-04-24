@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://btefdiyy4ihqo"]
+
+[ext_resource type="Script" path="res://New_Scene.cs" id="1_qeqy2"]
+[ext_resource type="PackedScene" uid="uid://cdhp45p5wn4xn" path="res://jitter_bug.tscn" id="2_4p3sq"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_qeqy2")
+
+[node name="JitterBug" parent="." instance=ExtResource("2_4p3sq")]
+position = Vector2(371, 135)
+
+[node name="JitterBug2" parent="." instance=ExtResource("2_4p3sq")]
+position = Vector2(761, 140)
+
+[node name="JitterBug3" parent="." instance=ExtResource("2_4p3sq")]
+position = Vector2(383, 397)
+
+[node name="JitterBug4" parent="." instance=ExtResource("2_4p3sq")]
+position = Vector2(752, 369)

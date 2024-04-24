@@ -1,3 +1,8 @@
-res://Main.tscn
-res://Movement.cs
 res://CharacterBody2D.cs
+res://JitterBug.cs
+res://Main.tscn
+res://New_Scene.tscn
+res://jitter_bug.tscn
+res://New_Scene.cs
+res://jitter_bug.cs
+res://Skull.tscn
